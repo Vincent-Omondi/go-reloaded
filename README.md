@@ -33,7 +33,7 @@ The program performs the following modifications on the input text:
 1. Clone the repository:
 
     ```bash
-    git clone https://learn.zone01kisumu.ke/git/vinomondi/go-reloaded.git
+    git clone https://github.com/Vincent-Omondi/go-reloaded
     ```
 
 2. Navigate to the project directory:
